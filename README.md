@@ -1,7 +1,6 @@
+    
 
-
-
-
+# Modified SDDM Themes
 
 ### Credits
 
