@@ -5,6 +5,8 @@
 ![Alt text](/watch-tower/watch-tower.png)
 ![Alt text](/pixel-train/pixel-train.png)
 
+### use `sddm-greeter-qt6 --test-mode --theme name`  to test.
+
 ### Credits
 
 **[qylock](https://github.com/Darkkal44/qylock/tree/main)**
