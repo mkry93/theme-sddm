@@ -11,6 +11,10 @@
 
 **[qylock](https://github.com/Darkkal44/qylock/tree/main)**
 
+**[mahaveergurjar](https://github.com/mahaveergurjar/sddm/tree/pixel)**
+
+**[seraphic.dotfiles](https://github.com/LoneWolf4713/seraphic.dotfiles)**
+
 </div>
 <br>
 <p align="center">━━━━━━━ ༓ ━━━━━━━</p>
