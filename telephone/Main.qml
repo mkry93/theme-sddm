@@ -51,22 +51,4 @@ Item {
             anchors.fill: parent
         }
     }
-    SessionMemory {
-        user: {
-            if (loginPanel.user !== undefined) return loginPanel.user;
-            if (loginPanel.selectedUser !== undefined) return loginPanel.selectedUser;
-            if (typeof userModel !== "undefined" && userModel.lastUser) return userModel.lastUser;
-            return "";
-        }
-        onMatched: {
-            if (loginPanel.sessionIndex !== undefined) {
-                loginPanel.sessionIndex = index;
-            } else if (loginPanel.session !== undefined) {
-                loginPanel.session = index;
-            } else if (loginPanel.sessionSelect !== undefined) {
-                loginPanel.sessionSelect.currentIndex = index;
-            }
-        }
-    }
-    
 }
