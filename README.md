@@ -4,6 +4,8 @@
 ![Alt text](/orbit/orbit.png)
 ![Alt text](/watch-tower/watch-tower.png)
 ![Alt text](/pixel-train/pixel-train.png)
+![Alt text](/yellow/yellow.png)
+![Alt text](/telephone/telephone.png)
 
 ### use `sddm-greeter-qt6 --test-mode --theme name`  to test.
 
