@@ -18,10 +18,10 @@ Rectangle {
 
     // Colors
     readonly property color cleanWhite: "#ffffff"
-    readonly property color lightCyan: "#b2f0f4"
-    readonly property color deepIceBlue: "#7bc3d4"
-    readonly property color darkTealLine: "#1c5b6e"
-    readonly property color watermarkTeal: "#3892a8"
+    readonly property color lightCyan: "#e8ab81"
+    readonly property color deepIceBlue: "#7994d4"
+    readonly property color darkTealLine: "#7994d4"
+    readonly property color watermarkTeal: "#e8ab81"
 
     FolderListModel {
         id: fontFolder
