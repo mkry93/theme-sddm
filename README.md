@@ -18,5 +18,4 @@
 **[seraphic.dotfiles](https://github.com/LoneWolf4713/seraphic.dotfiles)**
 
 </div>
-<br>
 <p align="center">━━━━━━━ ༓ ━━━━━━━</p>
