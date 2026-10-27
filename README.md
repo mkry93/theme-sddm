@@ -6,7 +6,7 @@
 ![Alt text](/pixel-train/pixel-train.png)
 ![Alt text](/yellow/yellow.png)
 ![Alt text](/telephone/telephone.png)
-
+![Alt text](/street/street.png)
 ### use `sddm-greeter-qt6 --test-mode --theme name`  to test.
 
 ### Credits
